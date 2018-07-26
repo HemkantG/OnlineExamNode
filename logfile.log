@@ -1,0 +1,123 @@
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-07-23T07:12:48.984Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-07-23T07:12:49.026Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-07-25T10:22:25.992Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-07-25T10:22:26.021Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:50:26.487Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:50:48.236Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:50:57.705Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:50:59.674Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:50:59.953Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:51:00.282Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:51:00.909Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:51:01.167Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:51:02.125Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:51:08.387Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:51:09.059Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:51:09.372Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:51:10.078Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:51:12.475Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:51:22.876Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:51:45.432Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:51:46.013Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:51:52.890Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:51:54.261Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:52:00.030Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:52:00.371Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:52:00.641Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:52:01.176Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:52:13.170Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:52:13.747Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:53:12.490Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:53:13.336Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:53:36.877Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:53:42.948Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:54:16.661Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:54:20.118Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:54:20.353Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:54:24.695Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:54:28.333Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:54:29.816Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:54:35.537Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:54:36.753Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:54:37.514Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:54:42.428Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:54:45.365Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:54:47.240Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:54:53.428Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:54:59.192Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:55:04.872Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:55:06.176Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" is not allowed to be empty]","timestamp":"2018-07-25T10:55:16.967Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:55:32.064Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:55:38.323Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:55:56.228Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:56:38.258Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:56:40.275Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T10:57:29.043Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:58:11.534Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:58:56.231Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:58:56.867Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:59:29.006Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T10:59:37.308Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:00:30.835Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:00:35.176Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:00:35.393Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:00:42.535Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:00:46.495Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:00:48.391Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:00:54.736Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:00:55.785Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:00:56.756Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:01:03.917Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:01:07.415Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:01:09.206Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:01:16.355Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:01:22.155Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:01:29.059Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:01:30.710Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" is not allowed to be empty]","timestamp":"2018-07-25T11:01:43.709Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:01:59.628Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:02:06.852Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:02:24.292Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:03:07.462Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:03:10.220Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:04:01.513Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:04:34.631Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:05:13.327Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:05:13.955Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:05:47.509Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:05:56.630Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:06:53.549Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:06:57.149Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:06:57.329Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:07:01.711Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:07:06.568Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:07:08.394Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:07:15.669Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:07:16.776Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:07:18.088Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:07:24.592Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:07:28.330Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:07:30.464Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:07:37.991Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:07:44.275Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:07:51.887Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:07:54.068Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" is not allowed to be empty]","timestamp":"2018-07-25T11:08:04.825Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:08:25.095Z"}
+{"level":"error","message":"Error occurred  child \"Subject\" fails because [\"Subject\" must be a string]","timestamp":"2018-07-25T11:08:34.134Z"}
+{"level":"error","message":"Error occurred  child \"Body\" fails because [\"Body\" must be a string]","timestamp":"2018-07-25T11:08:54.956Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-07-25T12:14:30.562Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-07-25T12:14:30.592Z"}
+{"level":"error","message":"Internal server error Cannot read property 'replace' of undefined","timestamp":"2018-07-25T12:16:37.294Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-07-25T12:43:44.745Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-07-25T12:43:44.790Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-07-25T12:48:29.863Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-07-25T12:48:29.911Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-07-25T12:52:12.050Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-07-25T12:52:12.105Z"}
+{"level":"error","message":"Internal server error query is not defined","timestamp":"2018-07-25T12:52:48.998Z"}
+{"level":"error","message":"Internal server error query is not defined","timestamp":"2018-07-25T12:53:16.320Z"}
+{"level":"error","message":"Internal server error query is not defined","timestamp":"2018-07-25T12:54:42.467Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-07-25T12:54:54.762Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-07-25T12:54:54.810Z"}
