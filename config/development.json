@@ -1,10 +1,9 @@
 {
     "dbConfig": {
-        "user": "sa",
-        "password": "espl@123",
-        "server": "192.168.101.20",
+        "user": "dbadmin",
+        "password": "Espl@123",
+        "server": "tcp:einterceptor.database.windows.net,1433",
         "database": "EInterceptor"
     },
-    "sentimentApiUrl": "http://192.168.101.24:5000/todo/api/v1.0/getSentiment",
-    "secretKey": "Eternus_Secret_Key@321#"
+    "sentimentApiUrl": "https://pythonsentimentapplication.azurewebsites.net/sentiment",
 }
