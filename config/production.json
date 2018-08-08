@@ -5,5 +5,5 @@
         "server": "tcp:einterceptor.database.windows.net,1433",
         "database": "EInterceptor"
     },
-    "sentimentApiUrl": "https://pythonsentimentapplication.azurewebsites.net/sentiment",
+    "sentimentApiUrl": "https://pythonsentimentapplication.azurewebsites.net/sentiment"
 }
