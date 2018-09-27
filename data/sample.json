@@ -1,0 +1,1369 @@
+{
+    "Questions": [
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 1025,
+            "QuestionDescription": "Evaluate 35 / .07",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 4156,
+            "QuestionDescription": "Find the missing numbers and letters in the following series: C 81   E 64  ?  49   I ?  K",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 1032,
+            "QuestionDescription": "Company workers decided to raise Rs. 3 lakhs by equal contribution from each. Had they contributed Rs. 50 each extra, the contribution would have been Rs. 3.25 lakhs. How many workers were they?",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 3107,
+            "QuestionDescription": "In a list of seven integers, 13 is the lowest member, 37 is the highest member, the mean is 23, the median is 24, and the mode is 18. If the numbers 8 and 43 are the included in the list, which of the following will change? 1 Mean 2 Median 3 Mode ",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 1110,
+            "QuestionDescription": "Pointing to a gentleman, Deepak said,\" His only brother is the father of my daughter's father.\" How is gentleman related to Deepak ?",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 3109,
+            "QuestionDescription": "If a^2 b  = 12^2, b is an odd integer, then a could be divisible by all of the following except…",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 3157,
+            "QuestionDescription": "Find the mistake(s) in the following code:unsigned int i;\r\nfor (i = 100; i <= 0; --i)\r\nprintf(“%d\\n”,i);",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 2038,
+            "QuestionDescription": "Which of the following problem causes an exception?\r\n",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 4153,
+            "QuestionDescription": "In a class of 100 students, 50 students passed in Mathematics and 70 passed in English, 5 students failed in both Mathematics and English. How many students passed in both the subjects?",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 10030,
+            "QuestionDescription": "Two pipes A and B can fill a cistern in 20 and 30 minutes respectively, and a third pipe C can empty it in 40 minutes. How long will it take to fill the cistern if all the three are opened at the same time?",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 2049,
+            "QuestionDescription": "One aspect that has to be dealt with by the integrity subsystem is to ensure that only valid values can be assigned to each data items. This is referred to as\r\n",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 1073,
+            "QuestionDescription": "Anand and Deepak started a business investing Rs.22,500 and Rs.35,000 respectively. Out of a total profit of\r\nRs. 13,800. Deepak's share is",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 4053,
+            "QuestionDescription": "Which is problem oriented language",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 3153,
+            "QuestionDescription": "The physical location of a record is determined by a mathematical formula that transforms a file key into a record location is :",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 2026,
+            "QuestionDescription": "In which of the following collections is the Input/Output based on a key?\r\n",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 4097,
+            "QuestionDescription": "Which of the following data structure may give overflow error,even though the current number of element in it is less than its size?",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 1071,
+            "QuestionDescription": "Rs. 700 is divided among A, B, C so that A receives half as much as B and B half as much as C. Then C's share is",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 10032,
+            "QuestionDescription": "Three 6 faced dice are thrown together. The probability that no two dice show the same number on them is -.",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 4024,
+            "QuestionDescription": "Name the common implementation of a table in associative array.",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-1",
+            "QuestionID": 2054,
+            "QuestionDescription": "A relation is in ........................... if an attribute of a composite key is dependent on an attribute of other composite key.\r\n",
+            "Active": 1,
+            "QueSet": 1,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 3105,
+            "QuestionDescription": "At the beginning of 2009, the population of Rampur was 204,000 and the population of Madhavpur was 216,000. If the population of each city increased by exactly 20% in 2009, how many more people lived in Madhavpur than in Rampur at end of 2009?",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10036,
+            "QuestionDescription": "How many four digit numbers can be formed using the digits {1, 3, 4, 5, 7, 9}(repetition of digits is not allowed)?",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 3119,
+            "QuestionDescription": "The estimated population of rabbits in a certain forest is given by the function P(t)=at+120, where t is an integer which represents number of years after the rabbit population was first counted. 0 = t = 10, and a is constant. If there are 192 rabbits 3 years after the population was first counted, how many rabbits will there be 7 years after the population was first counted.",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10102,
+            "QuestionDescription": "How can you get the type of arguments passed to a function?",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 3140,
+            "QuestionDescription": "What is the output of this program?#include <stdio.h>\r\n using namespace std;\r\n int array1[] = {1200, 200, 2300, 1230, 1543};\r\n int array2[] = {12, 14, 16, 18, 20};\r\n int temp, result = 0;\r\n    int main()\r\n    {\r\n        for (temp = 0; temp < 5; temp++) {\r\n            result += array1[temp];\r\n        }\r\n        for (temp = 0; temp < 4; temp++) {\r\n            result += array2[temp];\r\n        }\r\n        cout << result;\r\n        return 0;\r\n }",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10081,
+            "QuestionDescription": "What is the size of ‘int’?",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10096,
+            "QuestionDescription": " Choose the respective delete operator usage for the expression ‘ptr=new\nint[100]’.",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10089,
+            "QuestionDescription": "What tag is used to display a picture in a HTML page? ",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10072,
+            "QuestionDescription": "What is the output of the following program?\n\n#include<stdio.h>\n\nmain()\n{   \n   int r, x = 2;\n   float y = 5;\n\n   r = y%x;\n   printf(\"%d\", r); \n}",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10085,
+            "QuestionDescription": "Function fopen with the mode \"r+\" tries to open the file for __",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10083,
+            "QuestionDescription": "What is the output of the following program?\n#include<stdio.h>\nmain()\n{\nfloat t = 2;\nswitch(t)\n{\ncase 2: printf(\"Hi\");\ndefault: printf(\"Hello\");\n}\n}",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10075,
+            "QuestionDescription": "What is the output of the below code snippet?\n#include<stdio.h>\nmain()\n{\nfor(;;)printf(\"Hello\");\n}",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10039,
+            "QuestionDescription": "The number of sequences in which 7 players can throw a ball, so that the youngest player may not be the last is -",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10097,
+            "QuestionDescription": "Which of the following feature is a part of HTML 5?",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10092,
+            "QuestionDescription": "C++ does not supports the following",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10098,
+            "QuestionDescription": "Which of the following feature is a part of HTML 5?",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10080,
+            "QuestionDescription": "\nWhat is the output of the following program?\n#include<stdio.h>\nvoid swap(int m, int n)\n{\nint x = m;\nm = n;\nn = x;\n}\nmain()\n{\nint x=5, y=3;\nswap(x,y);\nprintf(\"%d %d\", x, y);\n}",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10068,
+            "QuestionDescription": "Which of the following is a logical operator?",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10066,
+            "QuestionDescription": "What is the output of the following program?\n\n#include<stdio.h>\n\nmain() \n{\n   char *p = NULL;\n   \n   printf(\"%c\", *p);\n}",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        },
+        {
+            "SectionName": "Section-3",
+            "QuestionID": 10062,
+            "QuestionDescription": "In the given below code, what will be the value of a variable x?\n\n#include<stdio.h>\n\nint main()\n{\n    int y = 100;\n    const int x = y;\n    \n    printf(\"%d\\n\", x);\n    return 0;\n}",
+            "Active": 1,
+            "QueSet": 3,
+            "ImagePath": ""
+        }
+    ],
+    "Options": [
+        {
+            "AnswerID": 428,
+            "QueID": 3105,
+            "AnswerDescription": "14400",
+            "CorrectAnswer": true,
+            "AnswerType": 2
+        },
+        {
+            "AnswerID": 435,
+            "QueID": 3107,
+            "AnswerDescription": "I only",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 436,
+            "QueID": 3107,
+            "AnswerDescription": "I and II only",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 437,
+            "QueID": 3107,
+            "AnswerDescription": "I and III only",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 438,
+            "QueID": 3107,
+            "AnswerDescription": "II and III only",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 439,
+            "QueID": 3107,
+            "AnswerDescription": "I, II and III",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 445,
+            "QueID": 3109,
+            "AnswerDescription": "3",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 446,
+            "QueID": 3109,
+            "AnswerDescription": "4",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 447,
+            "QueID": 3109,
+            "AnswerDescription": "6",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 448,
+            "QueID": 3109,
+            "AnswerDescription": "9",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 449,
+            "QueID": 3109,
+            "AnswerDescription": "12",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 495,
+            "QueID": 3119,
+            "AnswerDescription": "288",
+            "CorrectAnswer": true,
+            "AnswerType": 2
+        },
+        {
+            "AnswerID": 586,
+            "QueID": 3140,
+            "AnswerDescription": "6533",
+            "CorrectAnswer": true,
+            "AnswerType": 2
+        },
+        {
+            "AnswerID": 642,
+            "QueID": 3153,
+            "AnswerDescription": "B-Tree File ",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 643,
+            "QueID": 3153,
+            "AnswerDescription": "Hashed File",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 644,
+            "QueID": 3153,
+            "AnswerDescription": "Indexed File ",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 645,
+            "QueID": 3153,
+            "AnswerDescription": "Sequential file.",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 646,
+            "QueID": 3153,
+            "AnswerDescription": "None of the above",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 661,
+            "QueID": 3157,
+            "AnswerDescription": "i > 0",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 662,
+            "QueID": 3157,
+            "AnswerDescription": "%u, not %d",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 663,
+            "QueID": 3157,
+            "AnswerDescription": "Both of the above",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 664,
+            "QueID": 3157,
+            "AnswerDescription": "None of the above",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10274,
+            "QueID": 4024,
+            "AnswerDescription": "Hash Table",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10275,
+            "QueID": 4024,
+            "AnswerDescription": "Heap Table",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10276,
+            "QueID": 4024,
+            "AnswerDescription": "Stack Table",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10277,
+            "QueID": 4024,
+            "AnswerDescription": "Common Table",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10390,
+            "QueID": 4053,
+            "AnswerDescription": "BASIC",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10391,
+            "QueID": 4053,
+            "AnswerDescription": "PL/I",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10392,
+            "QueID": 4053,
+            "AnswerDescription": "FORTRAN",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10393,
+            "QueID": 4053,
+            "AnswerDescription": "none of above",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10562,
+            "QueID": 4097,
+            "AnswerDescription": "Simple queue",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10563,
+            "QueID": 4097,
+            "AnswerDescription": "Circular queue",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10564,
+            "QueID": 4097,
+            "AnswerDescription": "Priority Queues",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10565,
+            "QueID": 4097,
+            "AnswerDescription": "Non of this",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10786,
+            "QueID": 4153,
+            "AnswerDescription": "50",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10787,
+            "QueID": 4153,
+            "AnswerDescription": "40",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10788,
+            "QueID": 4153,
+            "AnswerDescription": "35",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10789,
+            "QueID": 4153,
+            "AnswerDescription": "25",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10798,
+            "QueID": 4156,
+            "AnswerDescription": "G,36",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10799,
+            "QueID": 4156,
+            "AnswerDescription": "F,36",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10800,
+            "QueID": 4156,
+            "AnswerDescription": "G,32",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 10801,
+            "QueID": 4156,
+            "AnswerDescription": "H,24",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11095,
+            "QueID": 1025,
+            "AnswerDescription": "400",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11096,
+            "QueID": 1025,
+            "AnswerDescription": "500",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11097,
+            "QueID": 1025,
+            "AnswerDescription": "505",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11098,
+            "QueID": 1025,
+            "AnswerDescription": "None of above",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11123,
+            "QueID": 1032,
+            "AnswerDescription": "300",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11124,
+            "QueID": 1032,
+            "AnswerDescription": "400",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11125,
+            "QueID": 1032,
+            "AnswerDescription": "500",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11126,
+            "QueID": 1032,
+            "AnswerDescription": "600",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11279,
+            "QueID": 1071,
+            "AnswerDescription": "Rs 200",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11280,
+            "QueID": 1071,
+            "AnswerDescription": "Rs 300",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11281,
+            "QueID": 1071,
+            "AnswerDescription": "Rs 400",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11282,
+            "QueID": 1071,
+            "AnswerDescription": "Rs 500",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11287,
+            "QueID": 1073,
+            "AnswerDescription": "Rs 9600",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11288,
+            "QueID": 1073,
+            "AnswerDescription": "Rs 8500",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11289,
+            "QueID": 1073,
+            "AnswerDescription": "Rs 8450",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11290,
+            "QueID": 1073,
+            "AnswerDescription": "Rs 8400",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11435,
+            "QueID": 1110,
+            "AnswerDescription": "Brother",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11436,
+            "QueID": 1110,
+            "AnswerDescription": "Father",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11437,
+            "QueID": 1110,
+            "AnswerDescription": "Grand Father",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 11438,
+            "QueID": 1110,
+            "AnswerDescription": "Uncle",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12107,
+            "QueID": 2026,
+            "AnswerDescription": "Map",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12108,
+            "QueID": 2026,
+            "AnswerDescription": "Stack",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12109,
+            "QueID": 2026,
+            "AnswerDescription": "BitArray",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12110,
+            "QueID": 2026,
+            "AnswerDescription": "HashTable",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12111,
+            "QueID": 2026,
+            "AnswerDescription": "SortedList",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12158,
+            "QueID": 2038,
+            "AnswerDescription": "Missing semicolon in statement in main().",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12159,
+            "QueID": 2038,
+            "AnswerDescription": "A problem in calling function.",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12160,
+            "QueID": 2038,
+            "AnswerDescription": "A syntax error.",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12161,
+            "QueID": 2038,
+            "AnswerDescription": "A run-time error.",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12202,
+            "QueID": 2049,
+            "AnswerDescription": "Data Security",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12203,
+            "QueID": 2049,
+            "AnswerDescription": " Domain access",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12204,
+            "QueID": 2049,
+            "AnswerDescription": "Data Control",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12205,
+            "QueID": 2049,
+            "AnswerDescription": "Domain Integrity",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12222,
+            "QueID": 2054,
+            "AnswerDescription": "2NF",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12223,
+            "QueID": 2054,
+            "AnswerDescription": " 3NF",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12224,
+            "QueID": 2054,
+            "AnswerDescription": "BCNF",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12225,
+            "QueID": 2054,
+            "AnswerDescription": "1NF",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12367,
+            "QueID": 10030,
+            "AnswerDescription": "19 1/7 min",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12368,
+            "QueID": 10030,
+            "AnswerDescription": "15 1/7 min",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12369,
+            "QueID": 10030,
+            "AnswerDescription": "17 1/7 min",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12370,
+            "QueID": 10030,
+            "AnswerDescription": "7 1/7 min",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12375,
+            "QueID": 10032,
+            "AnswerDescription": "5/9",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12376,
+            "QueID": 10032,
+            "AnswerDescription": "7/12",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12377,
+            "QueID": 10032,
+            "AnswerDescription": "5/12",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12378,
+            "QueID": 10032,
+            "AnswerDescription": "1/36",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12385,
+            "QueID": 10036,
+            "AnswerDescription": "360",
+            "CorrectAnswer": true,
+            "AnswerType": 2
+        },
+        {
+            "AnswerID": 12388,
+            "QueID": 10039,
+            "AnswerDescription": "4320",
+            "CorrectAnswer": true,
+            "AnswerType": 2
+        },
+        {
+            "AnswerID": 12432,
+            "QueID": 10062,
+            "AnswerDescription": "100",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12433,
+            "QueID": 10062,
+            "AnswerDescription": "0",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12434,
+            "QueID": 10062,
+            "AnswerDescription": "print x",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12435,
+            "QueID": 10062,
+            "AnswerDescription": "return Error",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12448,
+            "QueID": 10066,
+            "AnswerDescription": "Null",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12449,
+            "QueID": 10066,
+            "AnswerDescription": "0",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12450,
+            "QueID": 10066,
+            "AnswerDescription": "Compile Error",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12451,
+            "QueID": 10066,
+            "AnswerDescription": "Runtime Error",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12456,
+            "QueID": 10068,
+            "AnswerDescription": "!",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12457,
+            "QueID": 10068,
+            "AnswerDescription": "&&",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12458,
+            "QueID": 10068,
+            "AnswerDescription": "||",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12459,
+            "QueID": 10068,
+            "AnswerDescription": "All of the above",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12472,
+            "QueID": 10072,
+            "AnswerDescription": "1",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12473,
+            "QueID": 10072,
+            "AnswerDescription": "0",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12474,
+            "QueID": 10072,
+            "AnswerDescription": "2",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12475,
+            "QueID": 10072,
+            "AnswerDescription": "Compile Error",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12484,
+            "QueID": 10075,
+            "AnswerDescription": "Infinite loop",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12485,
+            "QueID": 10075,
+            "AnswerDescription": "Prints “Hello” once.",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12486,
+            "QueID": 10075,
+            "AnswerDescription": "No output",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12487,
+            "QueID": 10075,
+            "AnswerDescription": "Compile error",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12504,
+            "QueID": 10080,
+            "AnswerDescription": "3 5",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12505,
+            "QueID": 10080,
+            "AnswerDescription": "5 3",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12506,
+            "QueID": 10080,
+            "AnswerDescription": "5 5",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12507,
+            "QueID": 10080,
+            "AnswerDescription": "Complie Error",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12508,
+            "QueID": 10081,
+            "AnswerDescription": "2",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12509,
+            "QueID": 10081,
+            "AnswerDescription": "4",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12510,
+            "QueID": 10081,
+            "AnswerDescription": "8",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12511,
+            "QueID": 10081,
+            "AnswerDescription": "Compiler Dependent",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12516,
+            "QueID": 10083,
+            "AnswerDescription": "Hi",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12517,
+            "QueID": 10083,
+            "AnswerDescription": "HiHello",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12518,
+            "QueID": 10083,
+            "AnswerDescription": "Hello",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12519,
+            "QueID": 10083,
+            "AnswerDescription": "Error, as the main\n function is left empty",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12524,
+            "QueID": 10085,
+            "AnswerDescription": "reading and writing",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12525,
+            "QueID": 10085,
+            "AnswerDescription": "reading and adding new content",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12526,
+            "QueID": 10085,
+            "AnswerDescription": "only for reading",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12527,
+            "QueID": 10085,
+            "AnswerDescription": "it works only for directories",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12540,
+            "QueID": 10089,
+            "AnswerDescription": "picture",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12541,
+            "QueID": 10089,
+            "AnswerDescription": "image",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12542,
+            "QueID": 10089,
+            "AnswerDescription": "img",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12543,
+            "QueID": 10089,
+            "AnswerDescription": "src",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12552,
+            "QueID": 10092,
+            "AnswerDescription": "Multilevel inheritance",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12553,
+            "QueID": 10092,
+            "AnswerDescription": "Hierarchical inheritance",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12554,
+            "QueID": 10092,
+            "AnswerDescription": "Hybrid inheritance",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12555,
+            "QueID": 10092,
+            "AnswerDescription": "None of the above.",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12566,
+            "QueID": 10096,
+            "AnswerDescription": "delete ptr;",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12567,
+            "QueID": 10096,
+            "AnswerDescription": "delete ptr[];",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12568,
+            "QueID": 10096,
+            "AnswerDescription": "delete[] ptr;",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12569,
+            "QueID": 10096,
+            "AnswerDescription": "[]delete ptr;",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12570,
+            "QueID": 10097,
+            "AnswerDescription": "Persistent Local Storage",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12571,
+            "QueID": 10097,
+            "AnswerDescription": "WebSocket",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12572,
+            "QueID": 10097,
+            "AnswerDescription": "Server-Sent Events",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12573,
+            "QueID": 10097,
+            "AnswerDescription": "All of the above.",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12574,
+            "QueID": 10098,
+            "AnswerDescription": "Canvas",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12575,
+            "QueID": 10098,
+            "AnswerDescription": "Audio & Video",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12576,
+            "QueID": 10098,
+            "AnswerDescription": "Geolocation",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12577,
+            "QueID": 10098,
+            "AnswerDescription": "All of the above.",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12590,
+            "QueID": 10102,
+            "AnswerDescription": "using typeof operator",
+            "CorrectAnswer": true,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12591,
+            "QueID": 10102,
+            "AnswerDescription": "using getType function",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12592,
+            "QueID": 10102,
+            "AnswerDescription": "Both of the above.",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        },
+        {
+            "AnswerID": 12593,
+            "QueID": 10102,
+            "AnswerDescription": "None of the above.",
+            "CorrectAnswer": false,
+            "AnswerType": 1
+        }
+    ]
+}

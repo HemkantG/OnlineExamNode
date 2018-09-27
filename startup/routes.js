@@ -1,14 +1,26 @@
 const express = require('express');
 const cors = require('cors');
-const metadata = require('../routes/metadata');
-const dashboard = require('../routes/dashboard');
+const users = require('../routes/users');
+const questions = require('../routes/questions');
+const colleges = require('../routes/colleges');
+const streams = require('../routes/streams');
+const states = require('../routes/states');
+const calculate = require('../routes/calculate');
+const results = require('../routes/results');
 
 module.exports = function (app) {
     app.use(cors());
     app.use(express.json());
-    app.get('/',(req, res)=>{
-        res.send('Hello from Sentiment Analysis')
+    app.get('/', (req, res) => {
+        res.send('Hello from Online examination system');
     })
-    app.use('/api/metadata', metadata);
-    app.use('/api/dashboard', dashboard);
+
+    app.use('/api/users', users);
+    app.use('/api/questions', questions);
+    app.use('/api/colleges', colleges);
+    app.use('/api/streames', streams);
+    app.use('/api/states', states);
+    app.use('/api/calculate', calculate);
+    app.use('/api/results', results);
+
 }

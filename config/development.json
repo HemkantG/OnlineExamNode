@@ -1,9 +1,9 @@
 {
     "dbConfig": {
-        "user": "dbadmin",
-        "password": "Espl@123",
-        "server": "tcp:einterceptor.database.windows.net,1433",
-        "database": "EInterceptor"
+        "user": "sa",
+        "password": "espl@123",
+        "server": "192.168.101.20",
+        "database": "ExamSystemTest"
     },
-    "sentimentApiUrl": "https://pythonsentimentapplication.azurewebsites.net/sentiment"
+    "jwtPrivateKey": "esploes_jwtPrivateKey"
 }
