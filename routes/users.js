@@ -34,7 +34,7 @@ function validate(user) {
     const schema = {
         UserName: Joi.string().required(),
         FirstName: Joi.string().required(),
-        MiddleName: Joi.string().required(),
+        MiddleName: Joi.string().required().optional(),
         LastName: Joi.string().required(),
         Gender: Joi.string().required(),
         MaritalStatus: Joi.string().required(),

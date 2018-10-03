@@ -7,9 +7,11 @@ const streams = require('../routes/streams');
 const states = require('../routes/states');
 const calculate = require('../routes/calculate');
 const results = require('../routes/results');
+const questionswithAdminPermission = require('../routes/questionswithAdminPermission');
+
 
 module.exports = function (app) {
-    app.use(cors());
+    app.use(cors({ exposedHeaders: 'x-auth-token' }));
     app.use(express.json());
     app.get('/', (req, res) => {
         res.send('Hello from Online examination system');
@@ -22,5 +24,6 @@ module.exports = function (app) {
     app.use('/api/states', states);
     app.use('/api/calculate', calculate);
     app.use('/api/results', results);
+    app.use('/api/questionswithAdminPermission', questionswithAdminPermission);
 
 }

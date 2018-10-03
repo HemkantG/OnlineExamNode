@@ -1,6 +1,5 @@
 const express = require('express');
 const router = express.Router();
-const { poolPromise } = require('../database/db')
 const auth = require('../middleware/auth');
 const submitResult = require('../SPCalls/SubmitResult/submitResult')
 
