@@ -158,3 +158,10 @@
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T12:21:54.949Z"}
 {"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T12:26:25.017Z"}
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T12:26:25.061Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T12:50:03.437Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T12:50:03.506Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T13:38:59.968Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T13:39:00.017Z"}
+{"level":"error","message":"Internal server error (intermediate value).recordset[0] is not a function","timestamp":"2018-10-05T13:39:34.238Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T13:40:35.111Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T13:40:35.156Z"}

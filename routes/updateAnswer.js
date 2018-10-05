@@ -2,11 +2,14 @@ const express = require('express');
 const router = express.Router();
 const auth = require('../middleware/auth');
 const upadateAnswer = require('../SPCalls/UpdateAnswer/updateAnswer')
+const submitResult = require('../SPCalls/SubmitResult/submitResult')
 
 router.post('/', auth, async (req, res) => {
     const answerData = req.body.AnswerData;
-    let finalResult = (await upadateAnswer(answerData)).recordset[0]
-    res.status(200).send(finalResult);
+    const partialResult = req.body.PartialResult;
+    (await upadateAnswer(answerData));
+    (await submitResult(req.user,partialResult));
+    res.status(200).send();
 });
 
 module.exports = router;
