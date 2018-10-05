@@ -97,3 +97,20 @@
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T16:05:16.533Z"}
 {"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T16:07:07.076Z"}
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T16:07:07.121Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-03T16:22:24.294Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-03T16:22:24.355Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-04T12:49:27.709Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-04T12:49:27.788Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-04T14:09:49.041Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-04T14:09:49.093Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T04:49:50.332Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T04:49:50.366Z"}
+{"level":"error","message":"Error occurred  child \"RefferedByContact\" fails because [\"RefferedByContact\" is not allowed to be empty]","timestamp":"2018-10-05T04:51:22.736Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T04:52:44.621Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T04:52:44.658Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T06:29:28.068Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T06:29:28.110Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T06:31:10.472Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T06:31:10.511Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T06:36:36.783Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T06:36:36.826Z"}

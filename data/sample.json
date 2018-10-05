@@ -1267,7 +1267,7 @@
             "CorrectAnswer": false,
             "AnswerType": 1
         },
-        {
+        {   
             "AnswerID": 12568,
             "QueID": 10096,
             "AnswerDescription": "delete[] ptr;",

@@ -3,7 +3,7 @@ const router = express.Router();
 const Joi = require('joi');
 const winston = require('winston');
 const addUser = require('../SPCalls/AddUser/addUser');
-const generateAuthToken = require('../Utilities/TokenGeneration/generateToken');
+const generateAuthToken = require('../Utilities/TokenGeneration');
 
 router.post('/', async (req, res) => {
     const user = req.body;
@@ -48,8 +48,8 @@ function validate(user) {
         State: Joi.string().required(),
         CollegeName: Joi.string().required(),
         StreamName: Joi.string().required(),
-        RefferedBy: Joi.string().required(),
-        RefferedByContact: Joi.string().required(),
+        RefferedBy: Joi.string().optional(),
+        RefferedByContact: Joi.string().optional(),
     }
     return Joi.validate(user, schema);
 }
