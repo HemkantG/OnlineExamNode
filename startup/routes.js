@@ -7,6 +7,7 @@ const streams = require('../routes/streams');
 const states = require('../routes/states');
 const calculate = require('../routes/calculate');
 const results = require('../routes/results');
+const updateAnswer = require('../routes/updateAnswer');
 const questionswithAdminPermission = require('../routes/questionswithAdminPermission');
 
 
@@ -17,13 +18,14 @@ module.exports = function (app) {
         res.send('Hello from Online examination system');
     })
 
-    app.use('/api/users', users);
-    app.use('/api/questions', questions);
     app.use('/api/colleges', colleges);
-    app.use('/api/streames', streams);
+    app.use('/api/streams', streams);
     app.use('/api/states', states);
+    app.use('/api/users', users);
     app.use('/api/calculate', calculate);
     app.use('/api/results', results);
+    app.use('/api/questions', questions);
     app.use('/api/questionswithAdminPermission', questionswithAdminPermission);
+    app.use('/api/updateAnswer', updateAnswer);
 
 }

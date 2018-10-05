@@ -114,3 +114,47 @@
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T06:31:10.511Z"}
 {"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T06:36:36.783Z"}
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T06:36:36.826Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T09:00:17.287Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T09:00:17.336Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:18:48.763Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:20:40.792Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:20:45.775Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:20:47.355Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:20:48.071Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:20:48.788Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:24:27.169Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:31:49.758Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:32:25.753Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:32:55.866Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:34:06.491Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:34:12.675Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:34:47.099Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.OnlineTest_SaveUserTestanswerDatas'.","timestamp":"2018-10-05T09:35:12.313Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T09:44:03.169Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T09:44:03.224Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T09:47:44.000Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T09:47:44.038Z"}
+{"level":"error","message":"Internal server error Cannot insert the value NULL into column 'UserID', table 'ExamSystemTest.dbo.OnlineTest_UserAnswers'; column does not allow nulls. INSERT fails.","timestamp":"2018-10-05T09:51:34.841Z"}
+{"level":"error","message":"Internal server error Cannot insert the value NULL into column 'UserID', table 'ExamSystemTest.dbo.OnlineTest_UserAnswers'; column does not allow nulls. INSERT fails.","timestamp":"2018-10-05T09:52:07.072Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T09:54:48.492Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T09:54:48.550Z"}
+{"level":"error","message":"Internal server error Cannot insert the value NULL into column 'UserID', table 'ExamSystemTest.dbo.OnlineTest_UserAnswers'; column does not allow nulls. INSERT fails.","timestamp":"2018-10-05T09:55:05.820Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T09:56:18.887Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T09:56:18.936Z"}
+{"level":"error","message":"Internal server error Cannot read property 'UserId' of undefined","timestamp":"2018-10-05T09:56:28.671Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T09:57:44.603Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T09:57:44.656Z"}
+{"level":"error","message":"Internal server error Cannot read property 'UserId' of undefined","timestamp":"2018-10-05T09:57:50.566Z"}
+{"level":"error","message":"Error occurred  child \"RefferedByContact\" fails because [\"RefferedByContact\" is not allowed to be empty]","timestamp":"2018-10-05T10:12:53.431Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T10:16:20.325Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T10:16:20.374Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T11:59:03.817Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T11:59:03.854Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T12:01:24.111Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T12:01:24.178Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T12:02:59.173Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T12:02:59.227Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T12:21:54.912Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T12:21:54.949Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T12:26:25.017Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T12:26:25.061Z"}

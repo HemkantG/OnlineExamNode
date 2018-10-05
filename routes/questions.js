@@ -1,16 +1,12 @@
 const express = require('express');
 const router = express.Router();
-const { poolPromise } = require('../database/db')
 const auth = require('../middleware/auth');
 const generateRandomNumber = require('../Utilities/RandomNumberGenerator');
+const getQuestions = require('../SPCalls/GetQuestions/getQuestions')
 
 router.get('/', auth, async (req, res) => {
-    const pool = await poolPromise;
     const sessionId = generateRandomNumber().toString();
-    let result = await pool.request()
-        .input("SessionId", sessionId)
-        .input("UserID", req.user.userId)
-        .execute('dbo.OnlineTest_UserTest');
+    let result = await getQuestions(sessionId, req.user.userId);
 
     res.status(200).send(
         {
@@ -20,6 +16,5 @@ router.get('/', auth, async (req, res) => {
         }
     );
 });
-
 
 module.exports = router;
