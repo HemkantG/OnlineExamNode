@@ -165,3 +165,20 @@
 {"level":"error","message":"Internal server error (intermediate value).recordset[0] is not a function","timestamp":"2018-10-05T13:39:34.238Z"}
 {"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-05T13:40:35.111Z"}
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-05T13:40:35.156Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T04:27:46.544Z"}
+{"message":"Database Connection Failed!","stack":"ConnectionError: Failed to connect to 192.168.101.20:1433 - connect EHOSTUNREACH 192.168.101.20:1433\n    at Connection.tedious.once.err (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\mssql\\lib\\tedious.js:216:17)\n    at Object.onceWrapper (events.js:315:30)\n    at emitOne (events.js:116:13)\n    at Connection.emit (events.js:211:7)\n    at Connection.socketError (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:1004:14)\n    at D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:869:25\n    at Socket.onError (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connector.js:49:9)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at emitErrorNT (internal/streams/destroy.js:64:8)","code":"ESOCKET","originalError":{"message":"Failed to connect to 192.168.101.20:1433 - connect EHOSTUNREACH 192.168.101.20:1433","code":"ESOCKET"},"name":"ConnectionError","level":"error","timestamp":"2018-10-08T04:27:46.559Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T04:28:29.759Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T04:28:30.460Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T06:11:59.005Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T06:11:59.045Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T06:16:55.060Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T06:16:55.099Z"}
+{"level":"error","message":"Internal server error Procedure or function Insert_UserResultAccuracyConfidence has too many arguments specified.","timestamp":"2018-10-08T06:17:46.490Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T06:19:11.747Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T06:19:11.797Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T06:21:54.567Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T06:21:54.612Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T06:39:11.483Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T06:39:11.558Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T08:13:56.078Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T08:13:56.123Z"}

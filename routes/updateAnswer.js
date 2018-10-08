@@ -9,7 +9,7 @@ router.post('/', auth, async (req, res) => {
     const partialResult = req.body.PartialResult;
     (await upadateAnswer(answerData));
     (await submitResult(req.user,partialResult));
-    res.status(200).send();
+    res.status(200).send(); 
 });
 
 module.exports = router;
