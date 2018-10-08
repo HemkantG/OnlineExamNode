@@ -182,3 +182,5 @@
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T06:39:11.558Z"}
 {"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T08:13:56.078Z"}
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T08:13:56.123Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T08:17:24.516Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T08:17:24.556Z"}

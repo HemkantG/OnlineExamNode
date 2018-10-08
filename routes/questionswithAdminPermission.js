@@ -15,7 +15,7 @@ router.get('/', [auth, admin], async (req, res) => {
             Options: result.recordsets[1],
             SessionId: sessionId
         }
-    );
+    );  
 });
 
 module.exports = router;
