@@ -3,6 +3,7 @@ const router = express.Router();
 const Joi = require('joi');
 const winston = require('winston');
 const addUser = require('../SPCalls/AddUser/addUser');
+const checkRetestRequestStatus = require('../SPCalls/RetestStatus/retestStatus')
 const generateAuthToken = require('../Utilities/TokenGeneration');
 
 router.post('/', async (req, res) => {
@@ -15,8 +16,9 @@ router.post('/', async (req, res) => {
         return;
     }
 
-    const result = await addUser(user);
+    const retestStatus = await checkRetestRequestStatus(req.body.UserName);
 
+    const result = await addUser(user);
     if (result.recordset === undefined) {
         res.status(401).send("Invalid user")
         return;
@@ -26,8 +28,11 @@ router.post('/', async (req, res) => {
 
     const token = generateAuthToken(user.UserName, response.UserID);
     res.header('x-auth-token', token);
-    res.status(200).send(response);
-    
+    res.status(200).send({
+        ...response,
+        RetestStatus: retestStatus.recordset ? retestStatus.recordset[0].ReTestRequested : undefined
+    });
+
 });
 
 function validate(user) {
@@ -48,8 +53,8 @@ function validate(user) {
         State: Joi.string().required(),
         CollegeName: Joi.string().required(),
         StreamName: Joi.string().required(),
-        RefferedBy: Joi.string().optional(),
-        RefferedByContact: Joi.string().optional(),
+        RefferedBy: Joi.string().optional().empty(),
+        RefferedByContact: Joi.string().optional().empty(),
     }
     return Joi.validate(user, schema);
 }

@@ -8,16 +8,14 @@ const states = require('../routes/states');
 const calculate = require('../routes/calculate');
 const results = require('../routes/results');
 const updateAnswer = require('../routes/updateAnswer');
-const questionswithAdminPermission = require('../routes/questionswithAdminPermission');
+const requestRetest = require('../routes/requestRetest');
+const grantRetest = require('../routes/grantRetest');
+const retestCandidates = require('../routes/retestCandidates');
 
 
 module.exports = function (app) {
     app.use(cors({ exposedHeaders: 'x-auth-token' }));
     app.use(express.json());
-    app.get('/', (req, res) => {
-        res.send('Hello from Online examination system');
-    })
-
     app.use('/api/colleges', colleges);
     app.use('/api/streams', streams);
     app.use('/api/states', states);
@@ -25,7 +23,9 @@ module.exports = function (app) {
     app.use('/api/calculate', calculate);
     app.use('/api/results', results);
     app.use('/api/questions', questions);
-    app.use('/api/questionswithAdminPermission', questionswithAdminPermission);
     app.use('/api/updateAnswer', updateAnswer);
+    app.use('/api/requestRetest', requestRetest);
+    app.use('/api/grantRetest', grantRetest);
+    app.use('/api/retestCandidates', retestCandidates);
 
 }

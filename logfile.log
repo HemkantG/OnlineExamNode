@@ -184,3 +184,79 @@
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T08:13:56.123Z"}
 {"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-08T08:17:24.516Z"}
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-08T08:17:24.556Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T04:12:03.584Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T04:12:04.308Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T06:23:25.716Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T06:23:26.349Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T07:07:56.112Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T07:07:56.162Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T07:16:02.807Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T07:16:02.859Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.RequestRetest'.","timestamp":"2018-10-09T07:16:41.572Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T07:17:20.942Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T07:17:20.990Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T07:59:09.096Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T07:59:09.161Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T08:00:06.620Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T08:00:06.666Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T08:39:58.625Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T08:39:58.663Z"}
+{"level":"error","message":"Internal server error Procedure or function 'Request_Retest' expects parameter '@RetestRequestStatus', which was not supplied.","timestamp":"2018-10-09T08:40:21.139Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T08:43:10.166Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T08:43:10.207Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:34:44.518Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:34:44.557Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:35:31.264Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:35:31.316Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:49:05.303Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:49:05.349Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:51:27.405Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:51:27.456Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:52:08.152Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:52:08.196Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:53:26.612Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:53:26.658Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:54:24.385Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:54:24.428Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T09:56:49.888Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T09:56:49.927Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:02:10.740Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:02:10.788Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:03:10.274Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:03:10.312Z"}
+{"level":"error","message":"Error occurred  child \"RefferedByContact\" fails because [\"RefferedByContact\" is not allowed to be empty]","timestamp":"2018-10-09T10:13:40.274Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:14:26.464Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:14:26.513Z"}
+{"level":"error","message":"Error occurred  child \"RefferedBy\" fails because [\"RefferedBy\" is not allowed to be empty]","timestamp":"2018-10-09T10:17:48.906Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:19:37.323Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:19:37.369Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:36:20.464Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:36:20.503Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:56:53.673Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:56:53.716Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T10:59:01.835Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T10:59:01.873Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T11:02:07.102Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T11:02:07.151Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T11:06:05.472Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T11:06:05.515Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T11:08:28.003Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T11:08:28.046Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T11:36:08.530Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T11:36:08.572Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T11:48:44.513Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T11:48:44.557Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T12:02:39.116Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T12:02:39.138Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T12:03:28.548Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T12:03:28.588Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T13:12:45.169Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T13:12:45.209Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T13:14:17.204Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T13:14:17.250Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T13:15:33.070Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T13:15:33.109Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T13:45:35.366Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T13:45:35.416Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T14:41:56.713Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T14:41:56.757Z"}
