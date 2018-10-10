@@ -8,8 +8,6 @@ module.exports = function (req, res, next) {
     try {
         const user = jwt.verify(token, config.get('jwtPrivateKey'));
         req.user = user;
-        const password = req.header('admin-secret');
-        req.user.adminPassword = password;
         next();
     }
     catch (ex) {

@@ -292,3 +292,37 @@
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T09:26:58.580Z"}
 {"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T09:42:27.141Z"}
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T09:42:27.189Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T10:54:10.616Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T10:54:10.657Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T12:08:42.227Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T12:08:42.270Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T12:09:51.543Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T12:09:51.585Z"}
+{"level":"error","message":"Internal server error Validation failed for parameter 'startDate'. Value must be between -2147483648 and 2147483647.","timestamp":"2018-10-10T12:09:55.012Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T12:11:58.866Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T12:11:58.908Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T12:13:01.914Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T12:13:01.957Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T12:20:23.676Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T12:20:23.735Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T12:55:01.987Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T12:55:02.031Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:01:52.244Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:01:52.285Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:03:01.956Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:03:01.998Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:03:41.679Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:03:41.731Z"}
+{"level":"error","message":"Internal server error Error converting data type nvarchar to datetime.","timestamp":"2018-10-10T13:03:50.110Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:05:07.123Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:05:07.167Z"}
+{"level":"error","message":"Internal server error Error converting data type nvarchar to datetime.","timestamp":"2018-10-10T13:05:10.223Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:05:41.142Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:05:41.192Z"}
+{"level":"error","message":"Internal server error Error converting data type nvarchar to datetime.","timestamp":"2018-10-10T13:05:44.563Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:07:11.937Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:07:11.974Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:11:42.527Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:11:42.570Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:15:29.936Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:15:29.978Z"}

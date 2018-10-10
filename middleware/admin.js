@@ -8,7 +8,7 @@ module.exports = async function (req, res, next) {
     try {
         const user = jwt.verify(token, config.get('jwtPrivateKey'));
         if (!user.isAdmin) {
-            res.status(403).send('Forbidden.');
+            res.status(403).send('Forbidden. Token is not valid');
             return;
         }
         next();
