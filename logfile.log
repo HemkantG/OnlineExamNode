@@ -326,3 +326,44 @@
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:11:42.570Z"}
 {"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:15:29.936Z"}
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:15:29.978Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:23:10.491Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:23:10.552Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:52:14.923Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:52:14.963Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T13:54:27.334Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T13:55:32.209Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T13:57:19.064Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T13:57:19.093Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T13:57:44.602Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:02:39.997Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:02:40.042Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T14:04:14.776Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:08:41.441Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:08:41.483Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T14:09:03.420Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:09:34.029Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:09:34.070Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T14:09:59.968Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:10:44.443Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:10:44.484Z"}
+{"level":"error","message":"Internal server error Cannot read property 'ReTestRequested' of undefined","timestamp":"2018-10-10T14:11:03.281Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:12:33.836Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:12:33.915Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:33:42.781Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:33:42.824Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:37:56.710Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:37:56.758Z"}
+{"level":"error","message":"Internal server error Cannot read property 'SubmitTest' of undefined","timestamp":"2018-10-10T14:38:24.791Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:45:03.834Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:45:03.876Z"}
+{"level":"error","message":"Internal server error Cannot read property 'SubmitTest' of undefined","timestamp":"2018-10-10T14:45:37.818Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:45:56.972Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:45:57.025Z"}
+{"level":"error","message":"Internal server error Cannot read property 'userId' of undefined","timestamp":"2018-10-10T14:46:12.615Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T14:48:57.387Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T14:48:57.427Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T15:00:03.739Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T15:00:03.795Z"}
+{"level":"error","message":"Internal server error Cannot insert the value NULL into column 'UserId', table 'ExamSystemTest.dbo.UserResultAccuracyConfidence'; column does not allow nulls. INSERT fails.","timestamp":"2018-10-10T15:00:15.319Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T15:01:26.530Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T15:01:26.587Z"}

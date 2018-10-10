@@ -5,6 +5,7 @@ const winston = require('winston');
 const addUser = require('../SPCalls/AddUser/addUser');
 const checkRetestRequestStatus = require('../SPCalls/RetestStatus/retestStatus')
 const generateAuthToken = require('../Utilities/TokenGeneration');
+const submitResult = require('../SPCalls/SubmitResult/submitResult')
 
 router.post('/', async (req, res) => {
     const user = req.body;
@@ -16,21 +17,23 @@ router.post('/', async (req, res) => {
         return;
     }
 
-    const retestStatus = await checkRetestRequestStatus(req.body.UserName);
-
     const result = await addUser(user);
     if (result.recordset === undefined) {
         res.status(401).send("Invalid user")
         return;
     }
-
     const response = result.recordset[0];
+
+    await submitResult({ userId: response.UserID, userName: req.body.UserName });
+    const retestStatus = await checkRetestRequestStatus(req.body.UserName);
+
+    
 
     const token = generateAuthToken(user.UserName, response.UserID);
     res.header('x-auth-token', token);
     res.status(200).send({
         ...response,
-        RetestStatus: retestStatus.recordset ? retestStatus.recordset[0].ReTestRequested : undefined
+        RetestStatus: retestStatus.recordset.length > 0 ? retestStatus.recordset[0].ReTestRequested : undefined
     });
 
 });
