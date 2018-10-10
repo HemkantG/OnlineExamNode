@@ -1,6 +1,5 @@
 const jwt = require('jsonwebtoken');
 const config = require('config');
-const retakeExam = require('../SPCalls/RetakeExam/RetakeExam')
 
 module.exports = async function (req, res, next) {
     const token = req.header('x-auth-token');
