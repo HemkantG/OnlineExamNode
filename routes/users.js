@@ -39,22 +39,22 @@ function validate(user) {
     const schema = {
         UserName: Joi.string().required(),
         FirstName: Joi.string().required(),
-        MiddleName: Joi.string().required().optional(),
+        MiddleName: Joi.string().allow('').optional(),
         LastName: Joi.string().required(),
         Gender: Joi.string().required(),
         MaritalStatus: Joi.string().required(),
         DOB: Joi.date().required(),
         ContactNumber: Joi.string().required(),
-        Email: Joi.string().email(),
+        Email: Joi.string().required().email(),
         AddressLine1: Joi.string().required(),
-        AddressLine2: Joi.string().required(),
+        AddressLine2: Joi.string().allow('').optional(),
         PinCode: Joi.number().required(),
         City: Joi.string().required(),
         State: Joi.string().required(),
         CollegeName: Joi.string().required(),
         StreamName: Joi.string().required(),
-        RefferedBy: Joi.string().optional().empty(),
-        RefferedByContact: Joi.string().optional().empty(),
+        RefferedBy: Joi.string().allow('').optional(),
+        RefferedByContact: Joi.string().allow('').optional(),
     }
     return Joi.validate(user, schema);
 }

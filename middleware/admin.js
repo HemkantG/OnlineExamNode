@@ -7,9 +7,11 @@ module.exports = async function (req, res, next) {
     if (!token) return res.status(401).send('Access denied. No token provided.');
 
     try {
-        const result = await retakeExam(req.user.userName, req.user.adminPassword);
-        if(!(result.recordset && result.recordset.length===1))
-        return res.status(403).send('Un-Authorized');
+        const user = jwt.verify(token, config.get('jwtPrivateKey'));
+        if (!user.isAdmin) {
+            res.status(403).send('Forbidden.');
+            return;
+        }
         next();
     }
     catch (ex) {

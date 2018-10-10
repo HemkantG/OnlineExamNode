@@ -1,9 +1,9 @@
 const express = require('express');
 const router = express.Router();
 const requestRetest = require('../SPCalls/Retest/retest')
-const auth = require('../middleware/auth');
+const admin = require('../middleware/admin');
 
-router.post('/', async (req, res) => {
+router.post('/',admin, async (req, res) => {
     let results = await requestRetest(req.body.UserId, 'Granted')
     res.status(200).send(results.recordset);
 });

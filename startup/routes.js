@@ -11,7 +11,7 @@ const updateAnswer = require('../routes/updateAnswer');
 const requestRetest = require('../routes/requestRetest');
 const grantRetest = require('../routes/grantRetest');
 const retestCandidates = require('../routes/retestCandidates');
-
+const adminLogin = require('../routes/adminLogin');
 
 module.exports = function (app) {
     app.use(cors({ exposedHeaders: 'x-auth-token' }));
@@ -27,5 +27,6 @@ module.exports = function (app) {
     app.use('/api/requestRetest', requestRetest);
     app.use('/api/grantRetest', grantRetest);
     app.use('/api/retestCandidates', retestCandidates);
+    app.use('/api/adminLogin', adminLogin);
 
 }

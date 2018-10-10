@@ -260,3 +260,27 @@
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T13:45:35.416Z"}
 {"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-09T14:41:56.713Z"}
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-09T14:41:56.757Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T05:03:34.645Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T05:03:35.311Z"}
+{"level":"error","message":"Error occurred  child \"RefferedByContact\" fails because [\"RefferedByContact\" is not allowed to be empty]","timestamp":"2018-10-10T05:10:45.990Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T06:33:13.427Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T06:33:13.480Z"}
+{"level":"error","message":"Error occurred  child \"MiddleName\" fails because [\"MiddleName\" is not allowed to be empty]","timestamp":"2018-10-10T06:33:47.968Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T06:35:04.811Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T06:35:04.895Z"}
+{"level":"error","message":"Error occurred  child \"MiddleName\" fails because [\"MiddleName\" is not allowed to be empty]","timestamp":"2018-10-10T06:35:50.381Z"}
+{"level":"error","message":"Error occurred  child \"MiddleName\" fails because [\"MiddleName\" is not allowed to be empty]","timestamp":"2018-10-10T06:42:27.702Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T06:42:38.626Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T06:42:38.670Z"}
+{"level":"error","message":"Error occurred  child \"AddressLine2\" fails because [\"AddressLine2\" is not allowed to be empty]","timestamp":"2018-10-10T06:43:22.265Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T06:43:54.286Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T06:43:54.329Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T07:18:28.540Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T07:18:28.606Z"}
+{"level":"error","message":"Internal server error Could not find stored procedure 'dbo.CheckAdminCredentials'.","timestamp":"2018-10-10T07:19:50.215Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T07:20:20.656Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T07:20:20.707Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T08:34:07.284Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T08:34:07.326Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-10T08:44:33.773Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-10T08:44:33.811Z"}
