@@ -15,6 +15,7 @@ const adminLogin = require('../routes/adminLogin');
 const getReport = require('../routes/getReport');
 
 module.exports = function (app) {
+
     app.use(cors({ exposedHeaders: 'x-auth-token' }));
     app.use(express.json());
     app.use('/api/colleges', colleges);
