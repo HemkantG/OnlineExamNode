@@ -6,7 +6,7 @@ module.exports =async function (user) {
         .input('UserName', user.UserName)
         .input('Password', user.UserName)
         .input('firstName', user.FirstName)
-        .input('middleName', user.MiddleName)
+        .input('middleName', user.MiddleName===''?null:user.MiddleName)
         .input('lastname', user.LastName)
         .input('contactNo', user.ContactNumber)
         .input('Email', user.Email)

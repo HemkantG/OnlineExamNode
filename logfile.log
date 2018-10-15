@@ -443,3 +443,66 @@
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:25:27.696Z"}
 {"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T12:26:14.725Z"}
 {"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T12:26:15.377Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-11T13:14:32.306Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-11T13:14:32.981Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T08:23:27.332Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T08:23:27.376Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T08:40:55.803Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T08:40:55.847Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T08:52:55.142Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T08:52:55.202Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T09:02:23.104Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T09:03:55.384Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T09:07:20.092Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T09:09:10.503Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:01:56.453Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:02:12.162Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:02:47.048Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:03:13.856Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:03:53.426Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:04:10.602Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:05:37.525Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:06:51.020Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:07:34.439Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:08:25.504Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:09:20.972Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:11:18.840Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T10:25:40.839Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:43:53.358Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:45:17.978Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:50:27.193Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:51:09.275Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:51:16.181Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:52:02.388Z"}
+{"level":"error","message":"Error occurred  child \"MiddleName\" fails because [\"MiddleName\" must be a string]","timestamp":"2018-10-12T13:52:13.225Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:52:34.559Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:53:17.035Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T13:54:16.767Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T13:54:16.805Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:54:31.116Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T13:54:52.928Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T13:54:52.988Z"}
+{"level":"error","message":"Internal server error Invalid length parameter passed to the RIGHT function.","timestamp":"2018-10-12T13:55:09.959Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T13:56:06.810Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T13:56:06.852Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T13:56:26.169Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T13:56:26.208Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T14:04:29.429Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T14:04:29.481Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-12T14:09:11.247Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-12T14:09:11.288Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-15T05:50:28.574Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-15T05:50:29.266Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-15T11:55:15.645Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-15T11:55:15.648Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-15T11:56:19.558Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-15T11:56:19.566Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-15T11:57:06.465Z"}
+{"level":"error","message":"Internal server error ResourceRequest timed out","timestamp":"2018-10-15T11:57:06.469Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-15T11:58:13.499Z"}
+{"message":"Database Connection Failed!","stack":"ConnectionError: Login failed for user 'sa' because the account is currently locked out. The system administrator can unlock it. \n    at Connection.tedious.once.err (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\mssql\\lib\\tedious.js:216:17)\n    at Object.onceWrapper (events.js:315:30)\n    at emitOne (events.js:116:13)\n    at Connection.emit (events.js:211:7)\n    at Connection.processLogin7Response (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:1277:16)\n    at Connection.message (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:1789:14)\n    at Connection.dispatchEvent (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:992:38)\n    at MessageIO.<anonymous> (D:\\OnlineExaminationSystem\\OnlineExaminationSystemNode\\node_modules\\tedious\\lib\\connection.js:886:18)\n    at emitNone (events.js:106:13)\n    at MessageIO.emit (events.js:208:7)","code":"ELOGIN","originalError":{"message":"Login failed for user 'sa' because the account is currently locked out. The system administrator can unlock it. ","code":"ELOGIN"},"name":"ConnectionError","level":"error","timestamp":"2018-10-15T11:58:13.522Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-15T11:58:39.408Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-15T12:27:27.252Z"}
+{"level":"error","message":"Internal server error Cannot read property 'request' of undefined","timestamp":"2018-10-15T12:27:27.256Z"}
+{"level":"info","message":"Server started at port 5000.","timestamp":"2018-10-15T12:27:49.767Z"}
+{"level":"info","message":"Connected to database successfully.","timestamp":"2018-10-15T12:27:50.867Z"}

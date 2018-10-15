@@ -27,8 +27,6 @@ router.post('/', async (req, res) => {
     await submitResult({ userId: response.UserID, userName: req.body.UserName });
     const retestStatus = await checkRetestRequestStatus(req.body.UserName);
 
-    
-
     const token = generateAuthToken(user.UserName, response.UserID);
     res.header('x-auth-token', token);
     res.status(200).send({
