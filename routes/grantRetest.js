@@ -4,7 +4,7 @@ const requestRetest = require('../SPCalls/Retest/retest')
 const admin = require('../middleware/admin');
 
 router.post('/',admin, async (req, res) => {
-    let results = await requestRetest(req.body.UserId, 'Granted')
+    let results = await requestRetest(req.body.UserId, req.body.Status)
     res.status(200).send(results.recordset);
 });
 
