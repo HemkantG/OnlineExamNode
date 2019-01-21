@@ -9,6 +9,7 @@ const submitResult = require('../SPCalls/SubmitResult/submitResult')
 
 router.post('/', async (req, res) => {
     const user = req.body;
+    winston.info(`User Details : ${JSON.stringify(user)}.`);
     const { error } = validate(user);
 
     if (error) {
@@ -19,7 +20,7 @@ router.post('/', async (req, res) => {
 
     const result = await addUser(user);
     if (result.recordset === undefined) {
-        res.status(401).send("Invalid user")
+         res.status(401).send("Invalid user")
         return;
     }
     const response = result.recordset[0];
